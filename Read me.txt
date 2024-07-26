@@ -1,0 +1,11 @@
+This is the TensorFlow source code for the paper,  
+"An Ensemble Dual-Modality1 Approach for 3D Brain Tumor Segmentation2 Using Magnetic Resonance Imaging".
+The dataset can be downloaded from the following link
+https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation/data
+
+
+good luck
+
+contact information
+Ahmeed Suliman Farhan
+ahmeedsuliman@uoanbar.edu.iq
